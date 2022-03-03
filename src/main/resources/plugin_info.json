@@ -1,11 +1,10 @@
 {
-  "name": "ExamplePlugin",
+  "name": "LongJump",
   "version": "1.0",
-  "description": "Example implementation of a plugin for Lambda.",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
-  "authors": [ "me", "you" ],
-  "main_class": "com.lambda.ExamplePlugin",
+  "description": "Jump farther",
+  "url": "https://github.com/Doogie13/LongJump",
+  "authors": [ "Doogie13" ],
+  "main_class": "com.lambda.LongJumpPlugin",
   "min_api_version": "3.0",
-  "mixins": [ "mixins.ExamplePlugin.json" ],
   "required_plugins": []
 }

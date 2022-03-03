@@ -4,6 +4,5 @@
   "package": "com.lambda.mixins",
   "refmap": "mixins.ExamplePlugin.refmap.json",
   "client": [
-    "MixinMinecraft"
   ]
 }
